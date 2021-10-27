@@ -1,0 +1,17 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#FFA1E7",
+        "activityBar.background": "#2D0021",
+        "activityBar.inactiveForeground": "#781B89",
+        "activityBarBadge.foreground": "#1A0001",
+        "activityBarBadge.background": "#FF7F82",
+        "statusBar.foreground": "#FDEEFF",
+        "statusBar.background": "#90329F",
+        "statusBarItem.hoverBackground": "#6F295D",
+        "statusBarItem.remoteForeground": "#FFDAE9",
+        "statusBarItem.remoteBackground": "#A73261",
+        "statusBar.debuggingForeground": "#2A0031",
+        "statusBar.debuggingBackground": "#C669D6"
+    }
+}
